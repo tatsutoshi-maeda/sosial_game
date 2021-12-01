@@ -27,4 +27,3 @@ Shut down
  ```bash
 docker-compose down
 ```
-あああa
